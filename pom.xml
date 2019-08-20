@@ -31,19 +31,10 @@
     
     <modules>
         <module>sharding-core</module>
-        
         <module>sharding-jdbc</module>
-        <module>sharding-proxy</module>
-        
         <module>sharding-transaction</module>
-        <module>sharding-orchestration</module> 
-        <module>sharding-opentracing</module>
-    
         <module>sharding-spring</module>
-        <module>sharding-sql-test</module>
-        
         <module>sharding-distribution</module>
-        <module>sharding-integration-test</module>
     </modules>
     
     <properties>

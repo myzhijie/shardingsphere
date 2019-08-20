@@ -32,9 +32,7 @@
     <modules>
         <module>sharding-core</module>
         <module>sharding-jdbc</module>
-        <module>sharding-transaction</module>
         <module>sharding-spring</module>
-        <module>sharding-distribution</module>
     </modules>
     
     <properties>

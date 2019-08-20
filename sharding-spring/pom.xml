@@ -29,6 +29,5 @@
     
     <modules>
         <module>sharding-jdbc-spring</module>
-        <module>sharding-jdbc-orchestration-spring</module>
     </modules>
 </project>
